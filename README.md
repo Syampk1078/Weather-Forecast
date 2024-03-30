@@ -10,3 +10,4 @@ In this project, you will make a web application to check out the weather foreca
 <h2>Result</h2>
 
 ![Screenshot 2024-03-30 222203](https://github.com/Syampk1078/Weather-Forecast/assets/119304851/968fcf47-08ac-4f03-b38d-f844d26d1ad9)
+<p>🎯 Ready to embark on this journey? Dive in and enhance your web development skills!</p>
